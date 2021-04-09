@@ -1,4 +1,5 @@
 # movieapp
+
 1. Download and unzip the project
 2. To run this project locally, you need to run database. Use the JAMD.sql file inside the file and create database with SSMS.
 3. You should modify database connection string to connect with database, Modify 'MovieApp/appsettings.json'
